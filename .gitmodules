@@ -37,3 +37,6 @@
 [submodule "vim/bundle/xmledit"]
 	path = vim/bundle/xmledit
 	url = https://github.com/sukima/xmledit.git
+[submodule "vim/bundle/textobj-rubyblock"]
+	path = vim/bundle/textobj-rubyblock
+	url = https://github.com/nelstrom/vim-textobj-rubyblock.git
