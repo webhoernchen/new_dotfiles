@@ -61,3 +61,6 @@
 [submodule "vim/bundle/bufexplorer"]
 	path = vim/bundle/bufexplorer
 	url = https://github.com/torandu/vim-bufexplorer.git
+[submodule "vim/bundle/dbext"]
+	path = vim/bundle/dbext
+	url = https://github.com/vim-scripts/dbext.vim.git
