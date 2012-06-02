@@ -76,3 +76,6 @@
 [submodule "vim/bundle/pyflakes-vim"]
 	path = vim/bundle/pyflakes-vim
 	url = https://github.com/kevinw/pyflakes-vim.git
+[submodule "vim/bundle/taglist-plus"]
+	path = vim/bundle/taglist-plus
+	url = https://github.com/int3/vim-taglist-plus.git
