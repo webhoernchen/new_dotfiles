@@ -79,3 +79,6 @@
 [submodule "vim/bundle/taglist-plus"]
 	path = vim/bundle/taglist-plus
 	url = https://github.com/int3/vim-taglist-plus.git
+[submodule "vim/bundle/vcscommand"]
+	path = vim/bundle/vcscommand
+	url = https://github.com/inkarkat/vcscommand.vim.git
